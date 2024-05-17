@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Quingsley/carbon-zero-web/static/css/main.853f6d67.css",
+    "main.js": "/Quingsley/carbon-zero-web/static/js/main.763b5664.js",
+    "static/js/453.1c9dce95.chunk.js": "/Quingsley/carbon-zero-web/static/js/453.1c9dce95.chunk.js",
+    "index.html": "/Quingsley/carbon-zero-web/index.html",
+    "main.853f6d67.css.map": "/Quingsley/carbon-zero-web/static/css/main.853f6d67.css.map",
+    "main.763b5664.js.map": "/Quingsley/carbon-zero-web/static/js/main.763b5664.js.map",
+    "453.1c9dce95.chunk.js.map": "/Quingsley/carbon-zero-web/static/js/453.1c9dce95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.853f6d67.css",
+    "static/js/main.763b5664.js"
+  ]
+}
