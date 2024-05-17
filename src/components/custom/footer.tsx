@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 function Footer() {
   const year = new Date().getFullYear();
   return (
-    <footer className="flex flex-row items-center justify-center mt-8 mb-4 font-quicksand">
+    <footer className="flex flex-row items-center justify-center mt-8 mb-4 lg:mb-0 font-quicksand">
       <p>
         {" "}
         <span>&copy;</span> Jerome Jumah {year}
