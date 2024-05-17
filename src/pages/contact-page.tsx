@@ -8,7 +8,12 @@ function ContactPage() {
       </h1>
       <section className="lg:container flex flex-col lg:flex-row mt-4 justify-between">
         <Avatar className="sm: mb-2">
-          <AvatarImage src="https://firebasestorage.googleapis.com/v0/b/carbonzero-53d68.appspot.com/o/DSC_8273%20copy.jpg?alt=media&token=e193a00b-30b2-40ba-81d8-038bb1704e77" />
+          <AvatarImage
+            src="https://firebasestorage.googleapis.com/v0/b/carbonzero-53d68.appspot.com/o/DSC_8273%20copy.jpg?alt=media&token=e193a00b-30b2-40ba-81d8-038bb1704e77"
+            height={40}
+            width={40}
+            alt="Jerome Jumah profile picture"
+          />
           <AvatarFallback>JO</AvatarFallback>
         </Avatar>
         <p className="lg:ml-4">
