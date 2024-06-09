@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "CarbonZero",
+  "name": "Track your carbon footprint and get tips on how to reduce it through individual and community efforts.",
   "icons": [
     {
       "src": "favicon.ico",
